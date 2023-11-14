@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+
+.app {
+  display: flex;
+  width: 100%;
+}
+
+.input {
+  margin: 1em;
+  border-style: dashed;
+  border-radius: 20px;
+  padding: 3em;
+  width: 45%;
+  background-color: lightgray;
+}
+
+.output {
+  padding: 3em;
+}
